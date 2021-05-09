@@ -1,0 +1,16 @@
+{
+  "name": "Heroku AriaNG BOT",
+  "description": "With Rclone",
+  "logo": "https://i.imgur.com/ATSG4w3.png",
+  "keywords": [
+    "AriaNG",
+    "Web",
+    "UI",
+    "With",
+    "Rclone"
+  ],
+  "repository": "https://github.com/hex-313/Ggh/tree/her",
+  "website": "https://github.com/hex-313/Ggh/tree/her",
+  "success_url": "https://github.com/hex-313/Ggh/tree/her",
+  "stack": "container"
+  }
